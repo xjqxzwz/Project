@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/green</color>
+    <color name="colorPrimaryDark">@color/green</color>
+    <color name="colorAccent">@color/green</color>
+
+    <color name="transparent">#0000</color>
+    <color name="headText">#ffffff</color>
+    <color name="newsListTile">#000</color>
+    <color name="appbg">#56e6e6e6</color>
+    <color name="hui">#878383</color>
+    <color name="write">#ffffff</color>
+    <color name="red">#e64848</color>
+    <color name="black">#000</color>
+    <color name="yellow">#bfbf5d</color>
+    <color name="blue">#53adce</color>
+    <color name="green">#6daf6d</color>
+    <color name="zi">#ac51ac</color>
+    <color name="fen">#f190a7</color>
+</resources>

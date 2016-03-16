@@ -1,0 +1,72 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <!-- 蓝色主题-->
+    <style name="BlueTheme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/blue</item>
+    </style>
+    <!-- 红色主题-->
+    <style name="RedTheme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/red</item>
+        <item name="colorAccent">@color/red</item>
+    </style>
+    <!-- 粉色主题-->
+    <style name="FenTheme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/fen</item>
+        <item name="colorPrimaryDark">@color/fen</item>
+        <item name="colorAccent">@color/fen</item>
+    </style>
+    <!-- 黑色主题-->
+    <style name="BlackTheme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/black</item>
+    </style>
+    <!-- 黄色主题-->
+    <style name="YellowTheme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimaryDark">@color/yellow</item>
+        <item name="colorAccent">@color/yellow</item>
+    </style>
+    <!-- 绿色主题-->
+    <style name="GreenTheme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/green</item>
+        <item name="colorAccent">@color/green</item>
+    </style>
+    <!-- 紫色主题-->
+    <style name="ZiTheme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/zi</item>
+        <item name="colorPrimaryDark">@color/zi</item>
+        <item name="colorAccent">@color/zi</item>
+    </style>
+
+
+
+
+
+
+
+
+    <style name="AppTheme.FullScreen">
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

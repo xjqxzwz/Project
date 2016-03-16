@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Project</string>
+    <string name="navigation_drawer_open" translatable="false">开启</string>
+    <string name="navigation_drawer_close" translatable="false">关闭</string>
+    <string name="news" translatable="false">新闻</string>
+    <string name="photos" translatable="false">相册</string>
+    <string name="topic" translatable="false">话题</string>
+    <string name="setting" translatable="false">设置</string>
+    <string name="application" translatable="false">应用</string>
+    <string name="unLogin" translatable="false">未登录</string>
+    <string name="pullRefresh" translatable="false">下拉刷新</string>
+    <string name="refreshTime" translatable="false">最近刷新时间:2016-1-1 12:22</string>
+    <string name="textSize" translatable="false">字体大小</string>
+    <string name="share" translatable="false">分享</string>
+    <string name="refreshing" translatable="false">正在刷新...</string>
+    <string name="recommend" translatable="false">应用推荐</string>
+    <string name="theme" translatable="false">主题选择</string>
+    <string name="download" translatable="false">下载</string>
+    <string name="downloadManager" translatable="false">下载管理</string>
+</resources>
